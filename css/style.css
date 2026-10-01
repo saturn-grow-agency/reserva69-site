@@ -342,7 +342,8 @@ p {
 .hero {
     position: relative;
 
-    margin-top: 25px;
+   /*
+    margin-top: 25px; */
 
     min-height: 100vh;
 
@@ -1719,12 +1720,6 @@ p {
 }
 
 
-.hero  {
-
-   margin-top: 20px;
-
-   
-}
 
 
 
