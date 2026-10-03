@@ -1711,9 +1711,9 @@ p {
     background:
         linear-gradient(
             90deg,
-            rgba(0, 0, 0, 0.88) 0%,
-            rgba(0, 0, 0, 0.58) 45%,
-            rgba(0, 0, 0, 0.28) 100%
+            rgba(0, 0, 0, 0.98) 0%,
+            rgba(0, 0, 0, 0.78) 45%,
+            rgba(0, 0, 0, 0.58) 100%
         ),
         url("../imagens/qw1.jpg")
         center center / cover no-repeat;
