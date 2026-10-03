@@ -1684,7 +1684,7 @@ p {
 }
 
 .brand-logo {
-    width: 150px;
+    width: 100px;
     height: auto;
 
     object-fit: contain;
@@ -1695,7 +1695,7 @@ p {
 @media (max-width: 480px) {
 
     .brand-logo {
-        width: 125px;
+        width: 75px;
     }
 
 }
